@@ -99,6 +99,7 @@ class PrepFunctionOptions(object):
     no_com: bool = False
     no_str: bool = False
     max_str_length: int = sys.maxsize
+    ronin: bool = True
 
 
 @dataclass(frozen=True)
