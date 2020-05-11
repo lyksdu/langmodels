@@ -1,5 +1,4 @@
 import importlib
-importlib.import_module('comet_ml')
 
 import os
 
