@@ -1,5 +1,4 @@
 from importlib import import_module
-import_module('comet_ml')
 
 import logging
 import logging.config
